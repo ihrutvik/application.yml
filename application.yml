@@ -18,4 +18,3 @@ microservice:
       endpoint:
         uri: http://ORDER-SERVICE/order/bookOrder  
         
-test-1
